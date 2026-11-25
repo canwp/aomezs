@@ -58,7 +58,7 @@
 
 ![香港结婚证样张](./images/hk-marriage-cert_RqoRhb.png)
 
-[↑ 返回顶部目录]
+[↑ 返回顶部目录](#top)
 
 ---
 <a id="part3"></a>
@@ -87,7 +87,7 @@
 
 ![香港单身证明样张](./images/hk-single-cert_x-4Qn6.png)
 
-[[[ #top | ↑ 返回顶部目录 ]]]
+[↑ 返回顶部目录](#top)
 
 ---
 
