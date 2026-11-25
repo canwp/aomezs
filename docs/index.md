@@ -32,9 +32,13 @@
 
 **实操通关步骤**：携带出生纸原件、父母双方身份证及港澳通行证，找一位香港司法部委任的**中国委托公证人**。公证人会向香港生死登记处核实档案，出具一份《证明书》，将出生纸核证副本装订在内，送交中国法律服务（香港）有限公司加盖转递章。拿到带转递章的公证本后，内地窗口才会认可。
 
-<a href="hk-birth-cert.jpg" target="_blank">
-  <img src="hk-birth-cert.jpg" alt="香港出生证明样本,香港出世纸样本图片" width="200">
-</a>
+<p align="center">
+  <a href="hk-birth-cert.jpg" target="_blank">
+    <img src="hk-birth-cert.jpg" alt="香港出生证明样本，香港出世纸样本图片" width="200">
+  </a>
+  <br><br>
+  <a href="#top">↑ 返回顶部目录</a>
+</p>
 
 [↑ 返回顶部目录](#top)
 
