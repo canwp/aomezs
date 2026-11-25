@@ -1,8 +1,7 @@
 site_name: 香港结婚证，出生证明，单身证明内地用途及样式范本差异
-site_url: https://canwp.github.io/hkgzs/
+site_url: https://hkzsgz.readthedocs.io/zh-cn/latest/
 theme:
   name: material
   custom_dir: overrides
 
-extra_templates:
-  - robots.txt
+
