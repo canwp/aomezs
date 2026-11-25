@@ -36,6 +36,8 @@
   <a href="hk-birth-cert.jpg" target="_blank">
     <img src="hk-birth-cert.jpg" alt="香港出生证明样本，香港出世纸样本图片" width="200">
   </a>
+  <br>
+  <sub>▲ 香港出生证明（出世纸）样本（点击图片查看高清大图）</sub>
   <br><br>
   <a href="#top">↑ 返回顶部目录</a>
 </p>
