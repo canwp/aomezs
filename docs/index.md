@@ -1,4 +1,4 @@
-# 澳门婚姻登记证明、无结婚纪录证明书样本及办理在内地使用指南
+# 婚姻登记之叙述证明、无结婚纪录证明书样本及办理在内地使用指南
 
 澳门居民在内地办理结婚登记、房产买卖、子女落户，甚至申请签证或处理遗产继承，常常会被办事窗口要求出示婚姻状况证明。很多朋友拿到澳门民事登记局签发的证明文件后，看着满纸的中葡双语和专业术语一头雾水，甚至带回内地才发现用不了。结合手头这两份真实的官方样本，我们把《无婚姻登记证明》和《婚姻登记之叙述证明》的排版细节、核心条款以及回内地使用的全套避坑流程彻底理清楚。
 
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="certificate-of-no-marriage-record-macao.jpg" target="_blank">
-    <img src="certificate-of-no-marriage-record-macao.jpg" alt="澳门单身证明样本，澳门无结婚纪录证明书" width="200">
+    <img src="certificate-of-no-marriage-record-macao.jpg" alt="澳门单身证明样本，澳门无结婚纪录证明书样式图片" width="200">
   </a>
   <br>
   <sub>▲ 澳门无结婚纪录证明（单身证明）样本（点击图片查看高清大图）</sub>
@@ -15,7 +15,13 @@
 
 再看第二张图，这是已经结了婚的人士需要用到的《婚姻登记之叙述证明》（葡文：CERTIDÃO DE NARRATIVA DE REGISTO DE CASAMENTO）。相比第一张单身证明，这张绿色防伪底纹的纸张信息量要大得多，顶部右上角多了一个关键的“登记编号（REGISTO N°）”。正文分成了“男方结婚人”和“女方结婚人”两大板块，详细记录了双方的姓名、出生地（比如样张里女方标注为“中国内地 Interior da China”）以及双方父母的姓名。继续往下看样张的下半部分，这里藏着内地办事机构最看重的几个法律细节：文件明确记载了“婚前协定”状况（样张显示为“有 Com”）、“财产制度”（样张显示为“一般共同财产制 Regime da Comunhão Geral”）、结婚日期时间以及结婚地点（澳门民事登记分站）。一旦夫妻双方回内地涉及房产交易、银行贷款或离婚财产分割，内地房管局和公证处一定会死盯这一栏的财产制约定。如果双方在澳门登记时选了“一般共同财产制”或“取得财产分享制”，在内地卖房就必须夫妻双方共同签字，哪怕房产证上只写了单个人的名字也不行。
 
-![澳门婚姻登记之叙述证明样本](certificate-of-marriage-record-macao_Q5rdod.png)
+<p align="center">
+  <a href="certificate-of-marriage-record-macao.jpg" target="_blank">
+    <img src="certificate-of-marriage-record-macao.jpg" alt="澳门结婚证样本，婚姻登记之叙述证明样式图片" width="200">
+  </a>
+  <br>
+  <sub>▲ 婚姻登记之叙述证明（结婚证）样本（点击图片查看高清大图）</sub>
+ </p>
 
 ## 澳门开具的婚姻证明为什么不能直接拿回内地用？
 
